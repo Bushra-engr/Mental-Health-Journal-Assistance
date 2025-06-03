@@ -92,6 +92,7 @@ def load_system_prompt():
 4. Maintain a warm, understanding tone
 
 Always respond in JSON format with:
+-give detailed long analyses
 - emotion_detected: main emotion identified
 - summary: brief summary of the entry
 - advice: supportive message or advice
